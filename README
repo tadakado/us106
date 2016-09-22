@@ -3,3 +3,5 @@ US.106.keylayout
 Library/Keyboard Layouts/にファイルを置いて、
 システム環境設定 > キーボード > 入力ソース > 英字のレイアウト > US.106
 keylayoutファイルはUkeleleで作成しています。
+
+2016.09 macOS Sierraでの動作確認済み
